@@ -1,5 +1,5 @@
 # Interpolation
-Cebo's interpolation code
+Interpolation code of photo-nuclear reaction cross sections
 
 # Description
 This code calculates the total and second moment of nuclear photo-absorption cross sections.
