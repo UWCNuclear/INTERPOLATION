@@ -20,4 +20,4 @@ python3 Interpolation_Code_Aug2021.py
 The code requires input from an ASCII file with extension .dat, .txt or .csv
  
 # Output
-The program outputs a figure of the interpolant, experimental data, total cross section and the second moment of nuclear photo-absorption cross section and uncetainty.
+The program outputs a figure of the interpolant and experimental data, total cross section and the second moment of nuclear photo-absorption cross section and uncetainty.
