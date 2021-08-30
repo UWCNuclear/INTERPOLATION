@@ -9,6 +9,7 @@ import math
 import pandas as pd
 
 # importing data from file
+# change the location of the input file
 data = pd.read_csv("/home/cebo/Desktop/Cross Sections/208Pb.dat",names=["Col1","Col2","Col3"],sep="\t")    
 x = data["Col1"]   # Gamma Energy [MeV]
 y = data["Col2"]   # Cross section data [mb]
