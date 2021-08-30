@@ -10,11 +10,9 @@ The interpolation code is written in Python language, python version 3 is requir
 The input file called in the code is required to have three columns of data-that is, gamma energies, cross section and cross section uncertainty.
 
 # Execution
-```
+
 in terminal: 
-/bin/python3 Interpolation_Code_Aug2021.py
- 
-or simply:
+```
 python3 Interpolation_Code_Aug2021.py
 ```
 # File Format
