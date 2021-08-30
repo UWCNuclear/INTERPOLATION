@@ -9,8 +9,8 @@ The interpolation code is written in Python language, python version 3 is requir
 
 # Execution
 in terminal: 
- /bin/python3 Interpolation_Code_Aug2021.py
+/bin/python3 Interpolation_Code_Aug2021.py
  
- or simply:
- python3 Interpolation_Code_Aug2021.py
+or simply:
+python3 Interpolation_Code_Aug2021.py
  
