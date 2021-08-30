@@ -1,5 +1,5 @@
 # Interpolation
-Interpolation code of photo-nuclear reaction cross sections
+Interpolation of photo-nuclear reaction cross sections
 
 # Description
 This code calculates the total and second moment of nuclear photo-absorption cross sections.
