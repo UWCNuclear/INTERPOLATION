@@ -3,7 +3,8 @@ Interpolation of photo-nuclear reaction cross sections
 
 # Description
 This code calculates the total and second moment of nuclear photo-absorption cross sections.
-Photo-absorption cross sections are composed of neutron, proton, two-neutron etc. channels, these must be input independently if not summed prior.
+Photo-absorption cross sections are composed of neutron, proton, two-neutron etc. channels, these must be input independently if not summed prior. 
+Results from this code have been published in Physics Letters B (https://www.sciencedirect.com/science/article/pii/S0370269319301765) and other journals. 
 
 # Requirements
 The interpolation code is written in Python language, python version 3 is required together with pandas, scipy and matplotlib libraries.
