@@ -1,4 +1,4 @@
-# Interpolation
+# INTERPOLATION
 Interpolation of photo-nuclear reaction cross sections
 
 # Description
